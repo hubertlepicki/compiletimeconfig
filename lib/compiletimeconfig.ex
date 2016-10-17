@@ -1,0 +1,2 @@
+defmodule Compiletimeconfig do
+end
